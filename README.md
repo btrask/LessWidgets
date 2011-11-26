@@ -9,3 +9,4 @@ Known Issues
 	- Xcode
 - Hovering over the empty space next to the close box causes it to highlight
 - The widgets briefly appear when applications are first launched
+- Untested on Lion
